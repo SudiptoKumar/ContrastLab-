@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://contrastlab.lovable.app/sitemap.xml
